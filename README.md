@@ -1,16 +1,16 @@
-### Hi there 👋
+![72536259_p0-e1596210647119](README_pic/72536259_p0-e1596210647119.png)
 
-<!--
-**Varsion/Varsion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there is Varsion👋
 
-Here are some ideas to get you started:
+🥤I am specializing in Ruby, Ruby on rails and related directions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥤And then,I can make some web pages or sites by `PHP、Laravel、HTML、JavaScript` and so on.
+
+You can follow me about my blog [充鸭的手札](https://blog.varsion.cn)
+
+:e-mail:JianhuaL12@outlook.com
+
+:champagne:[Telegram Channel](https://t.me/cynight)
+
+# :cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain:
+
