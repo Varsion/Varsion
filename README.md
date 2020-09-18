@@ -1,5 +1,3 @@
-![72536259_p0-e1596210647119](README_pic/72536259_p0-e1596210647119.png)
-
 ### Hi there is Varsion👋
 
 🥤I am specializing in Ruby, Ruby on rails and related directions.
