@@ -6,9 +6,9 @@
 
 🥤 You can follow me about my blog [充鸭的手札](https://blog.varsion.cn)
 
-:e-mail:JianhuaL12@outlook.com
+:e-mail: JianhuaL12@outlook.com
 
-:champagne:[Telegram Channel](https://t.me/cynight)
+:champagne: [Telegram Channel](https://t.me/cynight)
 
 # :cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain:
 
