@@ -1,6 +1,6 @@
 ### Hi there is Varsion👋
 
-🥤 I am specializing in Ruby, Ruby on rails and related directions.
+🥤 I am specializing in `Ruby`, `Ruby on rails` and related directions.
 
 🥤 And then,I can make some web pages or sites by `PHP、Laravel、HTML、JavaScript` and so on.
 
