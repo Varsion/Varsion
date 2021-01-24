@@ -1,5 +1,8 @@
 ### Hi there is Varsion👋
 
+![Varsion github stats](https://github-readme-stats.vercel.app/api?username=Varsion&show_icons=true)
+![Varsion Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsion)
+
 🥤 I am specializing in `Ruby`, `Ruby on rails` and related directions.
 
 🥤 And then,I can make some web pages or sites by `PHP、Laravel、HTML、JavaScript` and so on.
