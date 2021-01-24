@@ -7,7 +7,7 @@
 
 🥤 And then,I can make some web pages or sites by `PHP、Laravel、HTML、JavaScript` and so on.
 
-🥤 You can follow me about my blog [充鸭的手札](https://blog.varsion.cn)
+🥤 You can follow me about my blog [ChongYaaa's Notes](https://blog.varsion.cn)
 
 :e-mail: JianhuaL12@outlook.com
 
