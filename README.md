@@ -1,9 +1,7 @@
-### Hi there is Varsion👋
+## Hi there is Varsion👋
 
 ![Varsion github stats](https://github-readme-stats.vercel.app/api?username=Varsion&show_icons=true)
 
-
-![Varsion Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsion&layout=compact)
 
 🥤 I am specializing in `Ruby`, `Ruby on rails` and related directions.
 
