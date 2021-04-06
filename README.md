@@ -13,5 +13,4 @@
 
 :champagne: [Telegram Channel](https://t.me/cynight)
 
-# :cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain::cloud_with_lightning_and_rain:
-
+:cloud_with_lightning_and_rain:
