@@ -1,16 +1,23 @@
-## Hi there is Varsion👋
+## Hi, There is Varsion
 
-![Varsion github stats](https://github-readme-stats.vercel.app/api?username=Varsion&show_icons=true)
+For programming languages.
 
+ I'm main to Ruby/Rails, PHP/Laravel.
 
-🥤 I am specializing in `Ruby`, `Ruby on rails` and related directions.
+And, I know basic Nodejs and Reactjs.
 
-🥤 And then,I can make some web pages or sites by `PHP、Laravel、HTML、JavaScript` and so on.
+![icon - Ruby](https://img.shields.io/badge/Ruby-2.*-ed5a65)![icon-Rails](https://img.shields.io/badge/Rails-6.*-ee3f4d) ![icon-PHP](https://img.shields.io/badge/PHP-7.*-2474b5) ![icon-Laravel](https://img.shields.io/badge/laravel-6.*-FF2D20)
 
-🥤 You can follow me about my blog [ChongYaaa's Notes](https://blog.varsion.cn)
+---
 
-:e-mail: JianhuaL12@outlook.com
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Varsion&show_icons=true"></div>
 
-:champagne: [Telegram Channel](https://t.me/cynight)
+---
 
-:cloud_with_lightning_and_rain:
+Mail to me	: JianhuaL12@outlook.com
+
+Reach me	 : [Telegram - ChongYa](https://t.me/cynight)
+
+Home page  : [ChongYaaa's Notes](https://blog.varsion.cn)
+
