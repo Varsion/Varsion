@@ -19,7 +19,7 @@ Mail to me	: JianhuaL12@outlook.com
 
 Reach me	 : [Telegram - ChongYa](https://t.me/Varsion)
 
-My channel  : [ChongYaa's Channel](https://t.me/cynight)
+My channel  : [ChongYaaa's Channel](https://t.me/cynight)
 
 Home page  : [ChongYaaa's Notes](https://blog.varsion.cn)
 
