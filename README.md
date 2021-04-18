@@ -11,7 +11,7 @@ For programming languages.
 
 And, I know basic Nodejs and Reactjs.
 
-![icon - Ruby](https://img.shields.io/badge/Ruby-2.*-ed5a65)![icon-Rails](https://img.shields.io/badge/Rails-6.*-ee3f4d) ![icon-PHP](https://img.shields.io/badge/PHP-7.2-2474b5) ![icon-Laravel](https://img.shields.io/badge/laravel-6.*-FF2D20)
+![icon - Ruby](https://img.shields.io/badge/Ruby-2.*-ed5a65) ![icon-Rails](https://img.shields.io/badge/Rails-6.*-ee3f4d) ![icon-PHP](https://img.shields.io/badge/PHP-7.2-2474b5) ![icon-Laravel](https://img.shields.io/badge/laravel-6.*-FF2D20)
 
 Mail to me	: JianhuaL12@outlook.com
 
