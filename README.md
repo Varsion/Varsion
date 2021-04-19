@@ -1,5 +1,5 @@
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Varsion&show_icons=true" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Varsion&show_icons=true" width="50%" />
 
 
 
