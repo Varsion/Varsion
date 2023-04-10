@@ -14,9 +14,9 @@ Planning to learn Rust or Elixir
 
 
 
-[✅] Reach me	 : [Telegram - ChongYa](https://t.me/Varsion)
+Reach me	 : [Telegram - ChongYa](https://t.me/Varsion)
 
-[✅] My channel  : [ChongYaaa's Channel](https://t.me/cynight)
+My channel  : [ChongYaaa's Channel](https://t.me/cynight)
 
-[🚫] Home page  : [ChongYaaa's Notes](https://blog.varsion.cn) 
+Home page  : [ChongYaaa's Notes]([https://blog.varsion.cn](https://blog.chongyaaa.pro)) 
 
