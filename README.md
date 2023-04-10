@@ -18,5 +18,5 @@ Reach me	 : [Telegram - ChongYa](https://t.me/Varsion)
 
 My channel  : [ChongYaaa's Channel](https://t.me/cynight)
 
-Home page  : [ChongYaaa's Notes]([https://blog.varsion.cn](https://blog.chongyaaa.pro)) 
+Home page  : [ChongYaaa's Notes](https://blog.chongyaaa.pro)
 
