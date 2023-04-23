@@ -5,7 +5,7 @@
 
 ## Hi, There is Varsion
 
-Contact me : [Telegram - ChongYa](https://t.me/Varsion)
+Contact me : [Telegram - ChongYaaa](https://t.me/ChongYaaa)
 
 My channel : [ChongYaaa's Channel](https://t.me/cynight)
 
