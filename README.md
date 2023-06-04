@@ -5,9 +5,10 @@
 
 ## Hi, There is ChongYaaa
 
-Contact me : [Telegram - ChongYaaa](https://t.me/ChongYaaa)
 
-My channel : [ChongYaaa's Channel](https://t.me/cynight)
+[Telegram - ChongYaaa](https://t.me/ChongYaaa)
 
-My page    : [ChongYaaa's Notes](https://blog.chongyaaa.pro)
+[ChongYaaa's Channel](https://t.me/cynight)
+
+[ChongYaaa's Notes](https://blog.chongyaaa.pro)
 
