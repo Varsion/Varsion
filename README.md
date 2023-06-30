@@ -1,5 +1,5 @@
-## Hi, There is ChongYaaa
+## Hi, There is Jianhua
 
-[Telegram - ChongYaaa](https://t.me/ChongYaaa)
+[Contact Me](https://t.me/ChongYaaa)
 
-[ChongYaaa's Notes](https://blog.chongyaaa.pro)
+[My Blog](https://blog.chongyaaa.pro)
