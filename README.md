@@ -5,5 +5,5 @@
 
 [ChongYaaa's Notes](https://blog.chongyaaa.pro)
 
-[Mail to me](ChongYaaa@skiff.com)
+[Mail to me](mailto:ChongYaaa@skiff.com)
 
